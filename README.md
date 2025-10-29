@@ -59,7 +59,11 @@ and access with admin and the password :
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/17bd8771-77c1-4096-91c5-decbbcd83c55" />
 
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/5a175999-4e41-437a-83b0-6ba7b4142f30" />
+
+
 the application is deployed on worker 01 so we can use the ip and port node to access it from master node 
+
 
 7-acceess application  : 
 
